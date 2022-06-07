@@ -1,3 +1,4 @@
+[![MasterHead](./header.png)](https://github.com/ebenemfum)
 
 <h1 align="center">Hi 👋, I'm Edem Ahadzi</h1>
 <h3 align="center">A software engineer currently focused on frontend development and enthusiastic about machine learning.</h3>
