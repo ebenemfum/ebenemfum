@@ -1,13 +1,13 @@
 [![MasterHead](./header.png)](https://github.com/ebenemfum)
 
-<h1 align="center">Hi 👋, I'm Edem Ahadzi</h1>
-<h3 align="center">A software engineer currently focused on frontend development and enthusiastic about machine learning.</h3>
+<h1 align="center">Welcomeeee!🙂</h1>
+<h3 align="center">I am currently a student majoring in Computer Science</h3>
 
-- 🌱 I’m currently learning **Machine Learning and Python**
+- 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **React, Java**
+- 💬 Ask me about **Java, IoT**
 
-- 📫 How to reach me **ahadzi.airdem@gmail.com**
+- 📫 How to reach me **ebene.mfum@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
