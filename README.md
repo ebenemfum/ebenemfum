@@ -1,7 +1,7 @@
 [![MasterHead](./header.png)](https://github.com/ebenemfum)
 
 <h1 align="center">Welcomeeee!🙂</h1>
-<h3 align="center">I am currently a student majoring in Computer Science</h3>
+<h3 align="center">An aspiring Software Engineer</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -25,6 +25,8 @@
    
  
 </p>
+
+[Jokes Card](https://readme-jokes.vercel.app/api)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebenemfum&show_icons=true&locale=en&layout=compact" alt="ahadziii" /></p>
 
