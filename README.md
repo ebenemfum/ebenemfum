@@ -3,7 +3,7 @@
 <h1 align="center">Welcomeeee!🙂</h1>
 <h3 align="center">An aspiring Software Engineer</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript** and **Laravel** 
 
 - 💬 Ask me about **Java, IoT**
 
