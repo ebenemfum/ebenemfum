@@ -1,7 +1,7 @@
 [![MasterHead](./header.png)](https://github.com/ebenemfum)
 
 <h1 align="center">Welcomeeee!🙂</h1>
-<h3 align="center">An aspiring Software Engineer</h3>
+<h3 align="center">An aspiring Cybersecurity Specialist and Software Engineer</h3>
 
 - 🌱 I’m currently learning **JavaScript** and **Laravel** 
 
